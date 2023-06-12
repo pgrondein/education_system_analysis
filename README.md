@@ -11,9 +11,3 @@ Voici les différentes questions que Mark aimerait explorer, que vous avez noté
 - Pour chacun de ces pays, quelle sera l’évolution de ce potentiel de clients ?
 - Dans quels pays l'entreprise doit-elle opérer en priorité ?
 
-## Compétences acquises
-- Effectuer une représentation graphique à l'aide d'une librairie Python adaptée
-- Mettre en place un environnement Python
-- Manipuler des données avec des librairies Python spécialisées
-- Utiliser un notebook Jupyter pour faciliter la rédaction du code et la collaboration
-- Maîtriser les opérations fondamentales du langage Python pour la Data Science
