@@ -31,7 +31,7 @@ Before you begin, it's important to determine the ideal customer profile for thi
 
 I also added a bonus indicator, linked to the income group.
 
-![income](https://github.com/pgrondein/education_system_analysis/assets/113172845/0650f2fc-33ed-4f6d-ad85-19ebe8e19cbb)
+<img src="https://github.com/pgrondein/education_system_analysis/assets/113172845/0650f2fc-33ed-4f6d-ad85-19ebe8e19cbb" height="400">
 
 ## Points
 Points are assigned to countries based on the value of indicators.
@@ -41,7 +41,7 @@ with *ind* the value of the indicator and *ind_M* the maximum value of the same 
 An overall score is obtained by multiplying all the indicator points, and makes it possible to rank all the countries.
 
 ## Conclusion
-![final](https://github.com/pgrondein/education_system_analysis/assets/113172845/8bcc46e0-06d4-45e0-9b30-18185f8d0b8f)
+<img src="https://github.com/pgrondein/education_system_analysis/assets/113172845/8bcc46e0-06d4-45e0-9b30-18185f8d0b8f" height="400">
 
 - Regions with high customer potential:
     - East Asia and Pacific: South Korea, New Zealand, Australia, Macao
@@ -49,7 +49,7 @@ An overall score is obtained by multiplying all the indicator points, and makes 
     - USA & Israel
 - Evolution: each selected country (with the exception of Iceland) is experiencing positive population growth
 
-![point_distrib](https://github.com/pgrondein/education_system_analysis/assets/113172845/892f8b5e-b580-46e9-9623-d335ac155c21)
+<img src="https://github.com/pgrondein/education_system_analysis/assets/113172845/892f8b5e-b580-46e9-9623-d335ac155c21" height="400">
 
 If we look at the distribution of points in the final score, we see that the countries present in the top 10 all belong to the same income group (High income), and that the difference is mainly played on the proportion of internet users and secondary and tertiary enrollment rates.
 
