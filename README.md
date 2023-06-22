@@ -15,13 +15,12 @@ Before you begin, it's important to determine the ideal customer profile for thi
 
 - A demographic indicator, to know the proportion of young people (18 - 24 years) in a country
 
-<img src="https://github.com/pgrondein/education_system_analysis/assets/113172845/632e02c2-c661-4467-bb48-7ed995add6ee" height="280">
-  
-![young_pop](https://github.com/pgrondein/education_system_analysis/assets/113172845/632e02c2-c661-4467-bb48-7ed995add6ee)
+<img src="https://github.com/pgrondein/education_system_analysis/assets/113172845/632e02c2-c661-4467-bb48-7ed995add6ee" height="560">
 
 - A demographic growth indicator, to evaluate the evolution of this young population
   
 ![young_pop_growth](https://github.com/pgrondein/education_system_analysis/assets/113172845/5f0a779c-5bd5-4a20-b9c2-2fa41243315d)
+<img src="https://github.com/pgrondein/education_system_analysis/assets/113172845/5f0a779c-5bd5-4a20-b9c2-2fa41243315d" height="560">
 
 - An indicator of internet users rate
 
