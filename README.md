@@ -1,4 +1,8 @@
 # Education systems data analysis for market expansion
+
+![banniere](https://github.com/pgrondein/education_system_analysis/assets/113172845/fe0cdbf4-6f1f-4200-998a-f8349f0b6c57)
+
+
 ## Context
 
 An EdTech start-up, which offers online training content for high school and university-level audiences, wants to expand internationally. The mission here is to determine, using education data from the World Bank (2010), the viability of the expansion project, as well as the countries to be favored.
