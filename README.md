@@ -27,7 +27,7 @@ Before you begin, it's important to determine the ideal customer profile for thi
 
 - Two indicators for the enrollment rate in secondary and tertiary education
 
-<img src="https://github.com/pgrondein/education_system_analysis/assets/113172845/f7cb8027-bab5-488a-a214-25bb55dfcea7" height="300"><img src="https://github.com/pgrondein/education_system_analysis/assets/113172845/28e785c6-0fb9-47a3-abcd-5b73a61db51b" height="300">
+<img src="https://github.com/pgrondein/education_system_analysis/assets/113172845/f7cb8027-bab5-488a-a214-25bb55dfcea7" height="380">  <img src="https://github.com/pgrondein/education_system_analysis/assets/113172845/28e785c6-0fb9-47a3-abcd-5b73a61db51b" height="380">
 
 I also added a bonus indicator, linked to the income group.
 
