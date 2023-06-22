@@ -19,18 +19,17 @@ Before you begin, it's important to determine the ideal customer profile for thi
 
 - A demographic growth indicator, to evaluate the evolution of this young population
   
-![young_pop_growth](https://github.com/pgrondein/education_system_analysis/assets/113172845/5f0a779c-5bd5-4a20-b9c2-2fa41243315d)
-<img src="https://github.com/pgrondein/education_system_analysis/assets/113172845/5f0a779c-5bd5-4a20-b9c2-2fa41243315d" height="560">
+<img src="https://github.com/pgrondein/education_system_analysis/assets/113172845/5f0a779c-5bd5-4a20-b9c2-2fa41243315d" height="400">
 
 - An indicator of internet users rate
 
-![internet_users](https://github.com/pgrondein/education_system_analysis/assets/113172845/43a91e54-fad5-4948-82fd-61458fe9ad87)
+<img src="https://github.com/pgrondein/education_system_analysis/assets/113172845/43a91e54-fad5-4948-82fd-61458fe9ad87" height="400">
 
 - Two indicators for the enrollment rate in secondary and tertiary education
 
-![secondary](https://github.com/pgrondein/education_system_analysis/assets/113172845/f7cb8027-bab5-488a-a214-25bb55dfcea7)
+<img src="https://github.com/pgrondein/education_system_analysis/assets/113172845/f7cb8027-bab5-488a-a214-25bb55dfcea7" height="400">
 
-![tertiary](https://github.com/pgrondein/education_system_analysis/assets/113172845/28e785c6-0fb9-47a3-abcd-5b73a61db51b)
+<img src="https://github.com/pgrondein/education_system_analysis/assets/113172845/28e785c6-0fb9-47a3-abcd-5b73a61db51b" height="400">
 
 I also added a bonus indicator, linked to the income group.
 
