@@ -14,6 +14,8 @@ To understand the data : https://datatopics.worldbank.org/education/
 Before you begin, it's important to determine the ideal customer profile for this type of content. I therefore establish that the main target population is young (15 - 24 years old), wishes to continue their education in secondary and tertiary institutions, has access to internet and should experience an increase in the years to come. With these elements, and after a quick analysis of the data structure, I selected 5 relevant indicators to answer the problem :
 
 - A demographic indicator, to know the proportion of young people (18 - 24 years) in a country
+
+<img src="https://github.com/pgrondein/education_system_analysis/assets/113172845/632e02c2-c661-4467-bb48-7ed995add6ee" height="280">
   
 ![young_pop](https://github.com/pgrondein/education_system_analysis/assets/113172845/632e02c2-c661-4467-bb48-7ed995add6ee)
 
