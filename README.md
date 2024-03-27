@@ -59,7 +59,8 @@ An overall score is obtained by multiplying all the indicator points, and makes 
 
 If we look at the distribution of points in the final score, we see that the countries present in the top 10 all belong to the same income group (High income), and that the difference is mainly played on the proportion of internet users and secondary and tertiary enrollment rates.
 
-![map_score](https://github.com/pgrondein/education_system_analysis/assets/113172845/a9fba8cb-8635-4e71-8146-38ae9a3ebbff)
+![map_score](https://github.com/pgrondein/education_system_analysis/assets/113172845/35d42815-6bd3-4cef-a818-79f9b3ae9492)
+
 
 
 In conclusion, the priority would be USA and Northern Europe.
