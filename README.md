@@ -1,6 +1,6 @@
 # Education systems data analysis for market expansion
 
-![banniere_2](https://github.com/pgrondein/education_system_analysis/assets/113172845/6f3da0ed-0703-40d3-885b-13c27d21b441)
+![banniere_2](https://github.com/pgrondein/education_system_analysis/assets/113172845/206acfd7-033c-4875-b888-a3ffbe3a346c)
 
 
 ## Context
